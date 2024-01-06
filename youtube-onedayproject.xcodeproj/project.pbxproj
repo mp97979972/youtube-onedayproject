@@ -16,7 +16,6 @@
 		583088422B4997AC005403C6 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 583088412B4997AC005403C6 /* Video.swift */; };
 		583088442B49980D005403C6 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 583088432B49980D005403C6 /* Model.swift */; };
 		583088462B49A34C005403C6 /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 583088452B49A34C005403C6 /* ConstantsTemplate.swift */; };
-		583088482B49A659005403C6 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 583088472B49A659005403C6 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +30,6 @@
 		583088412B4997AC005403C6 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		583088432B49980D005403C6 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		583088452B49A34C005403C6 /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
-		583088472B49A659005403C6 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +72,6 @@
 				583088412B4997AC005403C6 /* Video.swift */,
 				583088432B49980D005403C6 /* Model.swift */,
 				583088452B49A34C005403C6 /* ConstantsTemplate.swift */,
-				583088472B49A659005403C6 /* Constants.swift */,
 			);
 			path = "youtube-onedayproject";
 			sourceTree = "<group>";
@@ -154,7 +151,6 @@
 				583088302B495D01005403C6 /* ViewController.swift in Sources */,
 				5830882C2B495D01005403C6 /* AppDelegate.swift in Sources */,
 				5830882E2B495D01005403C6 /* SceneDelegate.swift in Sources */,
-				583088482B49A659005403C6 /* Constants.swift in Sources */,
 				583088442B49980D005403C6 /* Model.swift in Sources */,
 				583088422B4997AC005403C6 /* Video.swift in Sources */,
 			);
